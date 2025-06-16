@@ -1,7 +1,7 @@
 # FUNCTION VECTORS IN LARGE LANGUAGE MODELS
 
 [Link](https://arxiv.org/pdf/2310.15213)
-
+[ChatGPT - prereqs](https://chatgpt.com/share/684fac01-a924-8002-b958-66a1e0835019)
 ## Contributions of the paper
 - reports the presence of a simple neural mechanism that represents an input-output function as a vector within autoregressive transformer language models
 - It is found that a small number attention heads transport a compact representation of the demonstrated task, which we call a function vector (FV).
