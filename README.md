@@ -10,6 +10,7 @@ Exporing Mechansitic Interpretability and LLM Internals research for SURGE 2025
 - [ ] [Function Vectors Paper](https://arxiv.org/pdf/2310.15213)
   - [ ] Read and Notes
   - [ ] Implementation
+- [ ] SSR Paper
 - [ ] [GPT-RE Paper](https://arxiv.org/pdf/2305.02105): Notes
 - [ ] [NNSight](https://nnsight.net/): Understand and go through docs
 - [ ] Interpretability Video by David Bau
@@ -67,10 +68,9 @@ Exporing Mechansitic Interpretability and LLM Internals research for SURGE 2025
 4. [An Explanation of In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080)
 5. [The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis](https://arxiv.org/pdf/2311.00237v3)
 
-### Function Vectors
-Similar: Steering Vectors, In Context Vectors, Task Vectors
+### ICL Interpretability
+Similar: Steering Vectors, In Context Vectors, Task Vectors, Function Vectors
 - [Steering Vectors Video](https://www.youtube.com/watch?v=cp-YSyc5aW8)
-
 
 1. [Function Vectors in LLMs](https://arxiv.org/pdf/2310.15213)
 2. [In-context learning creates task vectors](https://arxiv.org/pdf/2310.15916)
@@ -78,6 +78,8 @@ Similar: Steering Vectors, In Context Vectors, Task Vectors
 	- When choosing intervention sites, we limit our search to the residual stream above the last entity token. However, representations of attributes can be distributed across multiple tokens or layers. We encourage future work to explore different intervention sites when using this benchmark.
 4. [Learnable In-Context Vector for Visual Question Answering](https://proceedings.neurips.cc/paper_files/paper/2024/file/12d3e63be5574088f7c1bbc9162060bf-Paper-Conference.pdf)
 5. [ICVs: Making In Context Learning More Effective and Controllable Through Latent Space Steering](https://arxiv.org/pdf/2311.06668)
+6. [Contextualize-then-Aggregate: Circuits for In-Context Learning in Gemma-2 2B](https://arxiv.org/pdf/2504.00132v1)
+7. 
 
 ### GCG-Optimizations
 1. GCG For Adversarial Suffix Crafting:
