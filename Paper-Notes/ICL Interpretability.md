@@ -46,4 +46,6 @@ Limitations:
 
 Future Work:
 1. Combine our results with a further scaled-up version of the sparse feature circuits to understand the contextualization step at the level of individual representations
-2. 
+
+---
+

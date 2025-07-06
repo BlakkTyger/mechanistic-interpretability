@@ -7,12 +7,11 @@
 
 Steps for the algorithm:
 1. Identify Acceptance Subspaces (HOW?)
-2. Use gradient-based optimisation to reroute embeddings from refusal subspaces to acceptance subspaces (Better Opimization?)
+2. Use gradient-based optimization to reroute embeddings from refusal subspaces to acceptance subspaces (Better Optimization?)
 
 
 Metadata about the algorithm:
 1. Models used: Gemma2, Llama3.2, and Qwen2.5
-
 
 ### Identification of Subspaces
 
